@@ -4,6 +4,9 @@
  
 ## 2. C++
 
+| 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 |
+|  --- | --- | --- | --- | --- |
+| 1 | 现代C++笔记 | :star::star::star: | ``` 已掌握 ``` | [现代C++阅读笔记](https://h55la2nk7t.feishu.cn/docx/WjdDdQ0lQoOYrCxOJGEc4YUsnTg) |
 
 
 
