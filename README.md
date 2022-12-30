@@ -1,5 +1,5 @@
 # My WorkNotes of summary
-## 1. games 
+## 1. Games course of series
 ### 1. Games101
 | 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 | 复习日期 |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
@@ -36,6 +36,8 @@
 |  :---: | :---: | :---:| :---: | :---: | :---: |
 | 1 | 网络同步 | :star::star::star: | ``` 已掌握 ``` | [网络同步](https://h55la2nk7t.feishu.cn/docx/FkKtddQwLoPc3Bxsv1mcfSOpnSc) |  |
 | 2 | UE委托 | :star::star::star: | ``` 已掌握 ``` | [UE委托](https://h55la2nk7t.feishu.cn/docx/YL1gdFbaMoIknax29Gkcv6WdnEb) |  |
+| 3 | 材质课程 | :star::star::star: | ``` 未掌握 ``` | [UE委托](https://h55la2nk7t.feishu.cn/docx/DvN2dEWmzo8WwKxYKv7cmFyBnVf) | 2022.10 |
+
 
 
 
