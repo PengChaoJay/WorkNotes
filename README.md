@@ -61,7 +61,7 @@
 | 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 |复习日期 |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 渲染管线 | :star::star::star: | ``` 未掌握 ``` | [渲染管线 ](https://h55la2nk7t.feishu.cn/docx/QT0cdm0Sdoh24mxvYZZcYhNhnPh) |  |
-| 1 | 游戏规则、机制与玩法的关系和底层发展逻辑 | :star::star::star: | ``` 未掌握 ``` |[ 游戏规则、机制与玩法的关系和底层发展逻辑 ](https://h55la2nk7t.feishu.cn/docx/PRLjdyySPoDtIRx89EXcQmGjnce) |  |
+| 1 | 游戏规则、机制与玩法的关系和底层发展逻辑 | :star::star::star: | ``` 未掌握 ``` |[ 游戏规则\机制与玩法关系和底层发展](https://h55la2nk7t.feishu.cn/docx/PRLjdyySPoDtIRx89EXcQmGjnce) |  |
 
 
 
