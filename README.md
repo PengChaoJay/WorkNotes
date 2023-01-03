@@ -11,7 +11,7 @@
 |  :---: | :---: | :---: | :---: | :---: | :---: | :---:|
 | 1 | 现代游戏引擎框架 | :star:| ``` 已掌握 ``` | [现代游戏引擎框架](https://h55la2nk7t.feishu.cn/docx/SWxLd1rEnoEHIBxOPaLcVrznnQf) | 2022-10 | ```基础框架```|
 | 2 | 引擎架构分层 | :star:| ``` 已掌握 ``` | [引擎架构分层 ](https://h55la2nk7t.feishu.cn/docx/TDDBdGCj2o6zUjxMl38chS4vneb) | 2022-10 | ```基础框架```|
-| 2 | 如何构建游戏世界 | :star:| ``` 已掌握 ``` | [如何构建游戏世界 ](https://h55la2nk7t.feishu.cn/docx/E8TYd7SriouwS0xjKQ9ceKPNnNf) | 2022-10 | ```基础框架```|
+| 2 | 如何构建游戏世界 | :star::star::star:| ``` 已掌握 ``` | [如何构建游戏世界 ](https://h55la2nk7t.feishu.cn/docx/E8TYd7SriouwS0xjKQ9ceKPNnNf) | 2022-10 | ```基础框架```|
 
 
  
