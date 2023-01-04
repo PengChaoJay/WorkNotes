@@ -40,6 +40,7 @@
 | 2 | UE委托 | :star::star::star: | ``` 已掌握 ``` | [UE委托](https://h55la2nk7t.feishu.cn/docx/YL1gdFbaMoIknax29Gkcv6WdnEb) |  |
 | 3 | 材质课程 | :star::star::star: | ``` 未掌握 ``` | [UE委托](https://h55la2nk7t.feishu.cn/docx/DvN2dEWmzo8WwKxYKv7cmFyBnVf) | 2022.10 |
 | 4 | insideUE gameplay框架 | :star::star::star: | ```未完全掌握 ``` | [insideUE gameplay框架](https://h55la2nk7t.feishu.cn/docx/HQpCdPXIjofZAWxJOYicKnBXnSe) |  |
+| 5 | UE性能分析（找内鬼） | :star::star::star: | ```未完全掌握 ``` | [UE性能分析（找内鬼）](https://h55la2nk7t.feishu.cn/docx/FCIMdEJaEokEVhxPzunco1g4ndc) |  |
 
 
 
