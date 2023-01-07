@@ -54,12 +54,22 @@
 
 
 
-## 4. TypeScript
+
+## 4. 游戏设计
+| 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 |复习日期 |
+|  :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | 游戏设计师--搞设计 | :star: :star: :star: | ``` 已掌握 ``` | [游戏设计师--搞设计](https://h55la2nk7t.feishu.cn/file/boxcnodsoS3K9Xpx7wXpsUsO49d) | 2022-09 |
+| 2 | 游戏设计师--玩游戏 | :star: :star: :star: | ``` 已掌握 ``` | [游戏设计师--搞设计](https://h55la2nk7t.feishu.cn/file/boxcnNKyydxidOWShHvjmyZRREh) | 2022-09 |
+| 3 | 游戏设计师--想问题 | :star: :star: :star: | ``` 已掌握 ``` | [游戏设计师--搞设计](https://h55la2nk7t.feishu.cn/file/boxcnfo2MDoccQAGPfm7WZYB8Il) | 2022-09 |
+| 5 | 游戏设计师--做事情 | :star: :star: :star: | ``` 已掌握 ``` | [游戏设计师--搞设计](https://h55la2nk7t.feishu.cn/file/boxcnWzII2hhWNobbuXaZ1SDcVe) | 2022-09 |
+
+
+## 5. TypeScript
 | 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 |复习日期 |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | TypeScript基础学习 | :star: | ``` 已掌握 ``` | [TypeScrip基础学习](https://h55la2nk7t.feishu.cn/docs/doccnZl12ssyesbV6LdbN2vV6By) | 2022-09 |
 
-## 5. 通用技术
+## 6. 通用技术
 | 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 |复习日期 |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 渲染管线 | :star::star::star: | ``` 未掌握 ``` | [渲染管线 ](https://h55la2nk7t.feishu.cn/docx/QT0cdm0Sdoh24mxvYZZcYhNhnPh) |  |
@@ -68,7 +78,7 @@
 
 
 
-## 6. git
+## 7. git
 | 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 |复习日期 |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | git基础学习 | :star: | ``` 已掌握 ``` | [git基础学习](https://h55la2nk7t.feishu.cn/docx/Ej2FdCcUKob3mlxeiyPcX6CfnPb) |  |
