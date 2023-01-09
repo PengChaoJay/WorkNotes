@@ -16,7 +16,6 @@
 
  
 ## 2. C++
-
 ### 1.笔记
 | 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 | 复习日期 |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
@@ -24,13 +23,19 @@
 | 2 | C++重要问题笔记 | :star::star::star::star: | ``` 已掌握 ``` | [C++重要问题笔记](https://h55la2nk7t.feishu.cn/docx/K9b5dNOyOogo6JxvyEKcWSA7nMg) | |
 | 3 | C++那些事 | :star::star::star::star: | ``` 已掌握 ``` | [ C++那些事 ](https://h55la2nk7t.feishu.cn/mindnotes/bmncnDjH8nBtQXErtoM3bInfCUd#mindmap) | |
 
-
 ### 2. 实现案例
-
 | 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 | 复习日期 |
 |  :---: | :---:| :---: | :---: | :---: | :---: |
 | 1 | C++实现反射 | :star::star::star: | ``` 已掌握 ``` | [C++实现反射](https://github.com/PengChaoJay/CPP) |  |
 | 2 | C++实现序列化 | :star::star::star: | ``` 已掌握 ``` | [C++实现序列化 ](https://github.com/PengChaoJay/CPP/tree/main/Serialization) |  |
+
+### 3.每日算法
+[代码随想录](https://www.programmercarl.com/)
+#### 数组
+| 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 | 复习日期 |
+|  :---: | :---:| :---: | :---: | :---: | :---: |
+| 1 | 二分查找 | :star::star: | ``` 已掌握 ``` | [二分查找](https://github.com/PengChaoJay/CPP) |  |
+
 
 
 ## 3. UE
