@@ -31,11 +31,11 @@
 
 ### 3.每日算法
 [代码随想录](https://www.programmercarl.com/)
-#### 数组
-| 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 | 复习日期 |
-|  :---: | :---:| :---: | :---: | :---: | :---: |
-| 1 | 二分查找 | :star::star: | ``` 已掌握 ``` | [二分查找](https://github.com/PengChaoJay/AlgorithmForCarl/blob/main/Array/1.%20%E4%BA%8C%E5%88%86%E6%B3%95.md) |  |
-| 2 | 删除元素 | :star::star: | ``` 已掌握 ``` | [删除元素](https://github.com/PengChaoJay/AlgorithmForCarl/edit/main/Array/2.%E5%88%A0%E9%99%A4%E5%85%83%E7%B4%A0.md) |  |
+#### 数组| 复习日期 |
+| 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 | 复习日期 | 标签 |
+|  :---: | :---:| :---: | :---: | :---: | :---: | :---: |
+| 1 | 二分查找 | :star::star: | ``` 已掌握 ``` | [二分查找](https://github.com/PengChaoJay/AlgorithmForCarl/blob/main/Array/1.%20%E4%BA%8C%E5%88%86%E6%B3%95.md) |  |```二分查找```|
+| 2 | 删除元素 | :star::star: | ``` 已掌握 ``` | [删除元素](https://github.com/PengChaoJay/AlgorithmForCarl/edit/main/Array/2.%E5%88%A0%E9%99%A4%E5%85%83%E7%B4%A0.md)|  |```双指针```|
 
 
 
