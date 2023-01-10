@@ -34,7 +34,7 @@
 #### 数组
 | 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 | 复习日期 |
 |  :---: | :---:| :---: | :---: | :---: | :---: |
-| 1 | 二分查找 | :star::star: | ``` 已掌握 ``` | [二分查找](https://github.com/PengChaoJay/CPP) |  |
+| 1 | 二分查找 | :star::star: | ``` 已掌握 ``` | [二分查找](https://github.com/PengChaoJay/AlgorithmForCarl/blob/main/Array/1.%20%E4%BA%8C%E5%88%86%E6%B3%95.md) |  |
 
 
 
