@@ -44,6 +44,7 @@
 | 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 | 复习日期 | 标签 |
 |  :---: | :---:| :---: | :---: | :---: | :---: | :---: |
 | 1 | 删除重复元素 | :star::star: | ``` 已掌握 ``` | [删除重复元素](https://github.com/PengChaoJay/AlgorithmForCarl/blob/main/List/1.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.md)|  |```链表```|
+| 2 | 翻转链表 | :star::star: | ``` 已掌握 ``` | [翻转链表]https://github.com/PengChaoJay/AlgorithmForCarl/blob/main/List/3.%20%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.md)|  |```链表``````双指针```|
 
 
 
