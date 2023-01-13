@@ -59,6 +59,7 @@
 | 4 | UE 引擎框架 | :star::star::star: | ```未完全掌握 ``` | [UE 引擎框架](https://h55la2nk7t.feishu.cn/docx/HQpCdPXIjofZAWxJOYicKnBXnSe) |  |
 | 5 | 虚幻框架理解 | :star::star::star: | ```未完全掌握 ``` | [虚幻框架理解 ](https://h55la2nk7t.feishu.cn/mindnotes/bmncnWH6lOs8u12LZyQhaOkusRg#mindmap) |  |
 | 6 | UE性能分析（找内鬼） | :star::star::star: | ```未完全掌握 ``` | [UE性能分析（找内鬼）](https://h55la2nk7t.feishu.cn/docx/FCIMdEJaEokEVhxPzunco1g4ndc) |  |
+| 7 | UE打包Android | :star::star::star: | ```完全掌握 ``` | [ UE打包Android ](https://h55la2nk7t.feishu.cn/docx/XTUjdSDSUo6ad3xurkAcOpW0nsg) |  |
 
 
 
