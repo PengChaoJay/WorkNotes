@@ -107,3 +107,10 @@
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 什么是NAT？ | :star: | ``` 已掌握 ``` | [什么是NAT？](https://info.support.huawei.com/info-finder/encyclopedia/zh/NAT.html) |  |
 | 2 | 什么是STUN？ | :star: | ``` 已掌握 ``` | [什么是STUN？](https://info.support.huawei.com/info-finder/encyclopedia/zh/STUN.html) |  |
+
+## 9. AI 
+| 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 |复习日期 |
+|  :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 |  | :star: |  | []() |  |
+
+
