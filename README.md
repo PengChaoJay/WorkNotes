@@ -112,5 +112,5 @@
 | 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 |复习日期 |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 机器学习 | :star: |  | [机器学习](https://h55la2nk7t.feishu.cn/docx/B42ndD8yjocCb8xEDRqcAbyRnth) |  |
-
+| 2 | 机器学习宝藏级 | :star: |  | [机器学习宝藏级](https://www.huaxiaozhuan.com/#huggingface_transformer) |  |
 
