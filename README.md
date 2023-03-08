@@ -70,7 +70,7 @@
 | 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 | 复习日期 |
 |  :---: | :---: | :---:| :---: | :---: | :---: |
 | 1 | 热更插件HotPatch使用 | :star:| ``` 已掌握 ``` | [热更插件HotPatch使用](https://h55la2nk7t.feishu.cn/docx/GVqIdSVxJofAN5xSnlicSc0Pnpe) |  |
-
+| 2 | 像素流插件部署 | :star:| ``` 已掌握 ``` | [像素流插件部署](https://h55la2nk7t.feishu.cn/docx/YLBrdvfCNof05Gx1N8IcvWwTnDA) |  |2
 
 
 
