@@ -119,3 +119,9 @@
 | 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 |复习日期 |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 虎书 |  |  | [虎书](https://www.cnblogs.com/haosongGame/p/bookFundamentalCG-00.html) |  |
+
+# 11.音视频
+| 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 |复习日期 |
+|  :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | Ffmpeg |  |  | [Ffmpeg](https://h55la2nk7t.feishu.cn/docx/V9MhdA16gooeLfxJQNEcDQrMn5C) |  |
+
