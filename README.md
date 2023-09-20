@@ -146,9 +146,4 @@
   [后端内容] (https://h55la2nk7t.feishu.cn/docx/QGTHdcfqxobkxXxGD62c750mndb)
 
 # 15. 一些游戏方面的关注内容
-- [GameDevMind](https://github.com/PengChaoJay/GameDevMind)
-
-
-'''
-https://blog.csdn.net/sandygull/article/details/117826374
-'''
+  [GameDevMind](https://github.com/PengChaoJay/GameDevMind)
