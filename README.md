@@ -136,10 +136,7 @@
 
 
 # 13. 个人工作总结
-## 1. 个人日工作
-   [工作计划与总结](https://h55la2nk7t.feishu.cn/docx/GwkvdJEkvoMva4xXvoNczIcjnWd) 
-## 2. 个人周工作总结
-## 3. 个人月工作总结
+   [工作总结避免以后踩坑](https://h55la2nk7t.feishu.cn/docx/GwkvdJEkvoMva4xXvoNczIcjnWd) 
 
 # 14. 后端开发
 ## 1. 个人目前接触项目总结
