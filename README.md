@@ -23,6 +23,7 @@
 | 1 | 现代C++笔记 | :star::star::star: | ``` 未掌握 ``` | [现代C++阅读笔记](https://h55la2nk7t.feishu.cn/docx/WjdDdQ0lQoOYrCxOJGEc4YUsnTg) | 2022-10 |
 | 2 | C++重要问题笔记 | :star::star::star::star: | ``` 已掌握 ``` | [C++重要问题笔记](https://h55la2nk7t.feishu.cn/docx/K9b5dNOyOogo6JxvyEKcWSA7nMg) | |
 | 3 | C++那些事 | :star::star::star::star: | ``` 已掌握 ``` | [ C++那些事 ](https://h55la2nk7t.feishu.cn/mindnotes/bmncnDjH8nBtQXErtoM3bInfCUd#mindmap) | |
+| 4 | Makefile那些事 | :star::star::star::star: | ``` 已掌握 ``` | [ C++Makefile那些事 ](https://h55la2nk7t.feishu.cn/docx/No6PdRSaToWS2cxGI3Ocd2vdn1d) | |
 
 ### 2. 实现案例
 | 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 | 复习日期 |
