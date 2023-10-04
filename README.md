@@ -147,5 +147,6 @@
 
 # 16.UE5 面试题
    [面试题目](https://h55la2nk7t.feishu.cn/docx/Mn6ydFmTmo4muOxyDNBcrpV5nZd)
-
+# yaml学习
+   [yaml学习笔记](https://h55la2nk7t.feishu.cn/mindnotes/GARsb4qi0mSXxUnfUwNcWOD6n4d#mindmap)
 
