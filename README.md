@@ -140,6 +140,13 @@
 
 # 13. 个人工作总结
    [工作总结避免以后踩坑](https://h55la2nk7t.feishu.cn/docx/GwkvdJEkvoMva4xXvoNczIcjnWd) 
+| 1 | go中的context |  |  | [go中的context](https://www.zhihu.com/tardis/zm/art/110085652?source_id=1005) |  |
+
+
+# 13. 个人工作总结
+   [工作总结避免以后踩坑](https://h55la2nk7t.feishu.cn/docx/GwkvdJEkvoMva4xXvoNczIcjnWd) 
+   [2024年工作总结规划](https://h55la2nk7t.feishu.cn/docx/EFobdgaNQoHAd7xrFONc73Cfnhf) 
+
 
 # 14. 后端开发
 ## 1. 个人目前接触项目总结
