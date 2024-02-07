@@ -71,6 +71,7 @@
 |  :---: | :---: | :---:| :---: | :---: | :---: |
 | 1 | 热更插件HotPatch使用 | :star:| ``` 已掌握 ``` | [热更插件HotPatch使用](https://h55la2nk7t.feishu.cn/docx/GVqIdSVxJofAN5xSnlicSc0Pnpe) |  |
 | 2 | 像素流插件部署 | :star:| ``` 已掌握 ``` | [像素流插件部署](https://h55la2nk7t.feishu.cn/docx/YLBrdvfCNof05Gx1N8IcvWwTnDA) |  |2
+| 2 | OSC 实时交互学习与使用 | :star:| ``` 未掌握 ``` | [UE OSC 实时交互](https://h55la2nk7t.feishu.cn/docx/WbeCdw6uXo9iw7xOvN7cMSYrnab) |  |2
 
 ### 3. UE工程
 | 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 | 复习日期 |
