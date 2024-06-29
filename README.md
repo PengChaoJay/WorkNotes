@@ -139,37 +139,41 @@
 | 1 | go中的context |  |  | [go中的context](https://www.zhihu.com/tardis/zm/art/110085652?source_id=1005) |  |
 
 
-# 13. 个人工作总结
+# 13. 个人学习总结
    [工作总结避免以后踩坑](https://h55la2nk7t.feishu.cn/docx/GwkvdJEkvoMva4xXvoNczIcjnWd) 
 | 1 | go中的context |  |  | [go中的context](https://www.zhihu.com/tardis/zm/art/110085652?source_id=1005) |  |
 
 
-# 13. 个人工作总结
+# 14. 个人工作总结
    [工作总结避免以后踩坑](https://h55la2nk7t.feishu.cn/docx/GwkvdJEkvoMva4xXvoNczIcjnWd) 
    [2024年工作总结规划](https://h55la2nk7t.feishu.cn/docx/EFobdgaNQoHAd7xrFONc73Cfnhf) 
 
 
-# 14. 后端开发
+# 15. 后端开发
 ## 1. 个人目前接触项目总结
    [后端内容](https://h55la2nk7t.feishu.cn/docx/QGTHdcfqxobkxXxGD62c750mndb) 
 
-# 15. 一些游戏方面的关注内容
+# 16. 一些游戏方面的关注内容
   [GameDevMind](https://github.com/PengChaoJay/GameDevMind)
 
-# 16.UE5 面试题
+# 17. UE5 面试题
    [面试题目](https://h55la2nk7t.feishu.cn/docx/Mn6ydFmTmo4muOxyDNBcrpV5nZd)
-# 17 docker 学习
+# 18. docker 学习
    [Docker笔记](https://h55la2nk7t.feishu.cn/docx/BaX7dUvFoocGmcxA0IQcofaznOe)
-# 18.yaml学习
+# 19. yaml学习
    [yaml学习笔记](https://h55la2nk7t.feishu.cn/mindnotes/GARsb4qi0mSXxUnfUwNcWOD6n4d#mindmap)
 
-# 19. 开发进度
+# 20. 开发进度
 | 序号 | 开发内容 | 重要程度 | 掌握情况 | 笔记链接 |
 |  :---: | :---: | :---: | :---: | :---: |
 
-# 20 大语言llm学习
+# 21. 大语言llm学习
 | 序号 | 开发内容 | 重要程度 | 掌握情况 | 笔记链接 |
 |  :---: | :---: | :---: | :---: | :---: |
 | 1 | LLM |  |  | [LLM学习](https://h55la2nk7t.feishu.cn/docx/MGdzdMRS2oSVy7xbXrMcSAXQn1g) |  |
 
 
+# 22. Python进阶
+| 序号 | 开发内容 | 重要程度 | 掌握情况 | 笔记链接 |
+|  :---: | :---: | :---: | :---: | :---: |
+| 1 | Python进阶 |  |  | [Python进阶](https://h55la2nk7t.feishu.cn/docx/RDqedgTXCom6LyxXrBRcBWjAnLe) |  |
