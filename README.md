@@ -93,6 +93,15 @@
 |  :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | TypeScript基础学习 | :star: | ``` 已掌握 ``` | [TypeScrip基础学习](https://h55la2nk7t.feishu.cn/docs/doccnZl12ssyesbV6LdbN2vV6By) | 2022-09 |
 
+### 2. Web 前端框架 (React / Next.js)
+
+| 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 | 复习日期 |
+|  :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | React Hooks 教学（7 个 hook 配交互 demo） | :star::star::star: | ``` 学习中 ``` | [react-project / app/hooks](https://github.com/PengChaoJay/react-project/tree/main/app/hooks) | 2026-06 |
+| 2 | Next.js App Router 教学（7 个核心概念） | :star::star::star::star: | ``` 学习中 ``` | [react-project / app/app-router](https://github.com/PengChaoJay/react-project/tree/main/app/app-router) | 2026-06 |
+| 3 | Next.js 核心概念问答（12 个 Q&A） | :star::star: | ``` 已整理 ``` | [CONCEPTS.md](https://github.com/PengChaoJay/react-project/blob/main/CONCEPTS.md) | 2026-06 |
+| 4 | React & Next.js 入门手册总入口 | :star::star::star: | ``` 已掌握 ``` | [react-project README](https://github.com/PengChaoJay/react-project) | 2026-06 |
+
 ## 6. 通用技术
 | 序号 | 模块 | 重要程度 | 掌握情况 | 笔记链接 |复习日期 |
 |  :---: | :---: | :---: | :---: | :---: | :---: |
